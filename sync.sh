@@ -1,6 +1,12 @@
 #!/bin/bash
 # Synchronize your online DALL-E history with a local copy.
 #
+#
+#
+# /!\ This requires familiarity with HTTP and the command line. /!\
+#
+#
+#
 # - Creates a directory called `tasks` (in the current directory) with a
 #   subdirectory for each prompt.
 # - All generated images are downloaded to the subdirectory, along with a
