@@ -11,3 +11,8 @@ the right guess about the parameters I was seeing in the browser's
 network tab.
 
 I cannot provide support; if you want a supported option, please ask OpenAI.
+
+2023-02-10: I've stopped playing with DALL-E and can't commit to
+testing any improvements, so I'm archiving the repo. Check the list of
+recently updated forks to see if there's a maintained version:
+https://github.com/timmc/dalle-history-sync/network
